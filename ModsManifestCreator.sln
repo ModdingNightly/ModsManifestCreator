@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModsManifestCreator", "ModsManifestCreator\ModsManifestCreator.csproj", "{DA94A258-73A7-4430-AC9D-3D2DFE272970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModsManifestCreatorConsole", "ModsManifestCreatorConsole\ModsManifestCreatorConsole.csproj", "{E372D4A2-F59E-4318-BF8D-EFA2B8B2E616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA94A258-73A7-4430-AC9D-3D2DFE272970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA94A258-73A7-4430-AC9D-3D2DFE272970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA94A258-73A7-4430-AC9D-3D2DFE272970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA94A258-73A7-4430-AC9D-3D2DFE272970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E372D4A2-F59E-4318-BF8D-EFA2B8B2E616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E372D4A2-F59E-4318-BF8D-EFA2B8B2E616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E372D4A2-F59E-4318-BF8D-EFA2B8B2E616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E372D4A2-F59E-4318-BF8D-EFA2B8B2E616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFFB45B7-5141-4822-9972-E1B7639E66E6}
+	EndGlobalSection
+EndGlobal
